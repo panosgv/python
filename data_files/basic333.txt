@@ -1,0 +1,11 @@
+ID,x_value,y_value,class,direction
+123,1,1,A,right
+112,,4,B,left
+213,3,9,B,left
+111,4,,A,left
+211,5,,A,right
+555,6,40,B,right
+589,7,53,A,right
+687,8,72,A,left
+861,9,78,A,right
+999,10,99,B,left

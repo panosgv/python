@@ -1,0 +1,11 @@
+name,score,attempts,qualify,labels
+Anastasia,12.5,1,yes,a
+John,9.0,3,no,b
+Katherine,16.5,2,yes,c
+James,,3,no,d
+Emily,9.0,2,no,e
+Michael,20.0,3,yes,f
+Matthew,14.5,1,yes,g
+Laura,,1,no,h
+Kevin,8.0,2,no,i
+Jonas,19.0,1,yes,j
